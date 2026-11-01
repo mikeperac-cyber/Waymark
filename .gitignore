@@ -1,0 +1,10 @@
+node_modules/
+dist-electron/
+release/
+*.log
+
+# Built Electron binaries & unpacked app (too large for GitHub; distribute via Releases)
+Waymark-Portable-x64.exe
+Waymark-Setup-x64.exe
+Waymark-Setup-x64.exe.blockmap
+Waymark-win32-x64/
